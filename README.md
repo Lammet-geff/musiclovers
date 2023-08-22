@@ -1,6 +1,6 @@
 # Eagle Music Band
 
-## Author: David
+## Author: Lammet
 
 ### Description
 
